@@ -1,0 +1,22 @@
+{
+  "tasks": [
+    {
+      "id": 1,
+      "text": "Go to a second hand store",
+      "day": "When there is money",
+      "reminder": true
+    },
+    {
+      "id": 3,
+      "text": "Buy Dasha a pink Harry Potter bag",
+      "day": "Earlier than her will go to Gdansk",
+      "reminder": true
+    },
+    {
+      "text": "Task",
+      "day": "Day",
+      "reminder": true,
+      "id": 4
+    }
+  ]
+}
